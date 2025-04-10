@@ -1,10 +1,10 @@
-# 🎮 Tic-Tac-Toe Game (Java)
+# Tic-Tac-Toe Game (Java)
 
 A simple yet clean implementation of the classic **Tic-Tac-Toe** game written in **Java**.
 
 ---
 
-## 📌 Features
+## Features
 
 - Two-player mode
 - Board management with win/draw detection
@@ -13,9 +13,9 @@ A simple yet clean implementation of the classic **Tic-Tac-Toe** game written in
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### ✅ Prerequisites
+###  Prerequisites
 
 To run this project, make sure you have **Java JDK** installed.
 
@@ -25,7 +25,7 @@ java -version
 
 ---
 
-### 📦 How to Compile & Run
+###  How to Compile & Run
 
 1. Clone or download the repository.
 2. Compile the Java files:
@@ -37,11 +37,11 @@ java -version
    java Main
    ```
 
-> 💡 Make sure you're in the same directory as `Main.java`.
+>  Make sure you're in the same directory as `Main.java`.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ├── Board.java
@@ -53,12 +53,7 @@ java -version
 ```
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** 
-
----
-
-## ✨ Author
+##  Author
 
 Created by **Niloufar Cheraghi** 
